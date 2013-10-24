@@ -1,7 +1,7 @@
 {
   "name": "mobilenode",
   "version": "0.0.0",
-  "description": "Mobile Node is a tiny node.js-like environment for native mobile apps",
+  "description": "MobileNode is a tiny node.js-like environment for native mobile apps",
   "author": "Kevin Whinnery",
   "license": "MIT",
   "main": "index.js",
@@ -18,7 +18,13 @@
     "android?"
   ],
   "dependencies": {
-    "browserify": "2.29.0",
-    "prompt": "~0.2.11"
+    "prompt": "~0.2.11",
+    "express": "~3.4.0",
+    "commander": "2.0.0",
+    "browserify": "~2.33.0",
+    "colors": "~0.6.2",
+    "ws": "~0.4.31",
+    "watchify": "~0.2.0",
+    "underscore": "~1.5.2"
   }
 }
