@@ -1,12 +1,12 @@
 {
   "name": "mobilenode",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "MobileNode is a tiny node.js-like environment for native mobile apps",
   "author": "Kevin Whinnery",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "mobilenode": "./bin/mobilenode",

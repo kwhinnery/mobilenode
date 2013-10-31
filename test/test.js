@@ -1,3 +1,2 @@
-var hello = require('./hello');
-
-hello.sayHello();
+alert('Ready? Fight!');
+console.warn('testing 123');
