@@ -26,5 +26,9 @@
     "ws": "~0.4.31",
     "watchify": "~0.2.0",
     "underscore": "~1.5.2"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/kwhinnery/mobilenode.git"
   }
 }
